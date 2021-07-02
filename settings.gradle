@@ -1,0 +1,3 @@
+rootProject.name = "ZBarLibrary"
+include ':app'
+include ':zbarlibrary'
